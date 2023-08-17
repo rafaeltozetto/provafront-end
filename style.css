@@ -1,0 +1,21 @@
+body{
+    background-image: url("ferrari");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p
+{font-size: 35px;}
+.botao{
+    margin-left:90%;
+    margin-top: -180px;
+
+
+
+}
+.texto{
+text-align: center;
+color: rgb(197, 12, 12);
+
+}
